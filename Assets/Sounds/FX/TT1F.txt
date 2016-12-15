@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:02,389
+Bienvenue dans l’univers du théâtre. 
+
+2
+00:00:02,389 --> 00:00:05,757
+Le rideau se lève sur LE Paris du 19e siècle. 
+
+3
+00:00:05,757 --> 00:00:14,823
+Capitale des Révolutions et des plaisirs, ville lumière et des Lumières, Paris vous ouvre les secrets de ses théâtres avec Theatromania.

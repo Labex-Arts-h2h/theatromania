@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:02,283
+Pour connaître votre prochain itinéraire,
+
+2
+00:00:02,283 --> 00:00:08,659
+retrouvez les morceaux de photographies disséminés autour de l’entrée des artistes du Théâtre des Variétés.

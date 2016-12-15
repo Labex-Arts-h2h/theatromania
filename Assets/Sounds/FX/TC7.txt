@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:03,936
+Vous avez découvert les trois personnages principaux de cette pièce ! 
+
+2
+00:00:03,936 --> 00:00:11,576
+Vous pouvez désormais continuer votre aventure en vous choisissant un guide parmi ces trois acteurs.

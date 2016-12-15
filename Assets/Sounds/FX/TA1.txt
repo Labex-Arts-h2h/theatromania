@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:01,631
+Richelieu-Drouot,
+
+2
+00:00:01,966 --> 00:00:07,187
+dès la sortie du métropolitain choisissez votre destination théâtrale :
+
+3
+00:00:07,187 --> 00:00:11,892
+Théâtre des Variétés, Théâtre du Vaudeville, Salle Le Peletier,
+
+4
+00:00:11,892 --> 00:00:14,880
+trois salles de spectacles s'offrent à vous !
